@@ -22,12 +22,17 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
-
+- 1. Web Server: Have a web server (e.g., Apache, Nginx) installed and properly configured on your system.
+- 2. PHP: Ensure you have PHP 7.1 or higher installed with necessary extensions like PDO, JSON, and XML.
+- 3. Database Server: Set up a MySQL or MariaDB database server to store osTicket data.
+- 4. Composer: Install Composer, a PHP dependency manager, to facilitate package installation.
+- 5. Web Browser: Make sure you have a web browser to access the osTicket web-based interface.
+- 6. Operating System: Compatible with Linux, Windows, or macOS operating systems.
+- 7. File Permissions: Set appropriate file permissions to allow the web server to read and write necessary files.
+- 8. SMTP Server (Optional): Configure an SMTP server if you wish to enable email notifications.
+- 9. GD Library (Optional): If you plan to use images, ensure the GD library for image manipulation is installed.
+- 10. Cron Jobs (Optional): For automation, set up cron jobs to handle scheduled tasks.
+- 11. SSL Certificate (Recommended): Implement an SSL certificate for secure communication.
 <h2>Installation Steps</h2>
 
 <p>
