@@ -36,7 +36,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src=![image](https://github.com/Guled26/osticket-prereqs/assets/140678217/29a1706f-ccfc-4d74-bb52-9e5cb701aa03)
+/>
 </p>
 <p>
 Step 1. Download: Clone or download the latest osTicket release from the official repository.
