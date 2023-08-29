@@ -39,8 +39,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-step 1.  Download osTicket
-Download the osTicket ZIP from the official repository or use Git:
+Step 1. Download: Clone or download the latest osTicket release from the official repository.
+Step 2. Database Setup: Create a MySQL/MariaDB database and user for osTicket.
+Step 3. Configuration: Rename include/ost-sampleconfig.php to include/ost-config.php. Edit with your database details.
 </p>
 <br />
 
@@ -49,7 +50,9 @@ Download the osTicket ZIP from the official repository or use Git:
 />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Step 4. Web Server: Point your web server to osTicket's upload directory.
+Step 5. Install Dependencies: Run composer install in osTicket's root directory.
+Step 6. Web Installation: Open a browser, visit your osTicket URL, and follow the web installer.
 </p>
 <br />
 
@@ -57,6 +60,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Step 7. Setup Admin: Provide admin details, organization info, and email settings.
+Step 8. Test & Done: Verify installation, and you're ready to manage tickets efficiently!
 </p>
 <br />
