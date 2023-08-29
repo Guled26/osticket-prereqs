@@ -48,7 +48,7 @@ Step 3. Configuration: Rename include/ost-sampleconfig.php to include/ost-config
 <br />
 
 <p>
-<img https://loaditsoft.com/img/screenshots/osticket-1.jpg />
+<img src= https://loaditsoft.com/img/screenshots/osticket-1.jpg />
 </p>
 <p>
 Step 4. Web Server: Point your web server to osTicket's upload directory.
