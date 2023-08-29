@@ -40,7 +40,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <p>
 Step 1. Download: Clone or download the latest osTicket release from the official repository.
+  
 Step 2. Database Setup: Create a MySQL/MariaDB database and user for osTicket.
+
 Step 3. Configuration: Rename include/ost-sampleconfig.php to include/ost-config.php. Edit with your database details.
 </p>
 <br />
@@ -51,7 +53,9 @@ Step 3. Configuration: Rename include/ost-sampleconfig.php to include/ost-config
 </p>
 <p>
 Step 4. Web Server: Point your web server to osTicket's upload directory.
+  
 Step 5. Install Dependencies: Run composer install in osTicket's root directory.
+
 Step 6. Web Installation: Open a browser, visit your osTicket URL, and follow the web installer.
 </p>
 <br />
@@ -61,6 +65,7 @@ Step 6. Web Installation: Open a browser, visit your osTicket URL, and follow th
 </p>
 <p>
 Step 7. Setup Admin: Provide admin details, organization info, and email settings.
+  
 Step 8. Test & Done: Verify installation, and you're ready to manage tickets efficiently!
 </p>
 <br />
