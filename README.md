@@ -36,7 +36,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src= https://www.unixmen.com/wp-content/uploads/2015/07/Ost1.jpg/>
+<img src= https://www.techrepublic.com/wp-content/uploads/2023/01/tr11823-osticketa-770x690.jpg />
 </p>
 <p>
 Step 1. Download: Clone or download the latest osTicket release from the official repository.
