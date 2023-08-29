@@ -60,7 +60,7 @@ Step 6. Web Installation: Open a browser, visit your osTicket URL, and follow th
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src= https://linuxroutes.com/wp-content/uploads/2017/06/install-Open-Source-support-ticketing-system-OsTicket3.jpg />
 </p>
 <p>
 Step 7. Setup Admin: Provide admin details, organization info, and email settings.
