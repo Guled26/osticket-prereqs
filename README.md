@@ -45,7 +45,8 @@ Download the osTicket ZIP from the official repository or use Git:
 <br />
 
 <p>
-<img git clone https://github.com/osTicket/osTicket/>
+<img ![image](https://github.com/Guled26/osticket-prereqs/assets/140678217/f162efd9-0ce6-4bee-b573-c327cee33774)
+/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
